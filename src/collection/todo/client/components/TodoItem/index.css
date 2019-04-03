@@ -1,0 +1,19 @@
+.todoItem{
+	list-style: none;
+	display:block;
+	background-color: #F4F4F4;
+	border:1px solid #EEE;
+	padding:5px;
+	padding-left:10px;
+	margin:10px;  
+}
+.todoItem .links{
+ 	float:right;
+}
+.todoItem img{
+	width:15px;
+	margin-right:5px;
+}
+.clr{
+	clear:both;
+}
